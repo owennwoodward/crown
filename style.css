@@ -1,0 +1,29 @@
+body {
+    background-color: white;
+}
+
+.syrup {
+    margin-right: 1.5em;
+    height: 300px;
+    min-width: 300px;
+    border-radius: 100%;
+}
+
+.crown {
+    color: white;
+}
+
+.header-img {
+    background: url("syrup.avif");
+    background-position: 43% 12%;
+    background-size: cover;
+}
+
+.text-only {
+    background-color: black;
+    color: white;
+}
+
+.learn {
+    width: 250px;
+}
